@@ -21,10 +21,13 @@ To run this project on your computer, follow these steps:
 ## Issues
 While using it, if you encounter any bugs or other problems, please contact us on NDZhelev22@codingburgas.bg
 
+
+We appriciate any support <3
 <!DOCTYPE html>
 <html>
 <body>
    <p><a href="https://www.Youtube.com/"><img src="https://www.tutorialspoint.com/assets/questions/media/426142-1668760872.png" style="width:50px;height:50px;"></a></p>
+	<p><a href="https://www.Instagram.com/"><img src="https://www.tutorialspoint.com/assets/questions/media/426142-1668760872.png" style="width:50px;height:50px;"></a></p>
 </body>
 </html>
 
