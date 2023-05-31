@@ -1,11 +1,21 @@
-<!DOCTYPE html>
-<html>
-   <head>
-    <h1>Alpha</h1>
-    <small>Welcome our project! This project is a web-based application built using HTML and CSS. Its objective is to provide information about Industrial robots using a website.</small>
-    <h2>Table of contents</h2>
-   </head> 
-   <body>
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
-   </body>
-</html>
+## General info
+This project is simple Lorem ipsum dolor generator.
+	
+## Technologies
+Project is created with:
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
+	
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ cd ../lorem
+$ npm install
+$ npm start
