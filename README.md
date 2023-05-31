@@ -13,10 +13,10 @@ The people that made this possible: Petko
 ## Installiation
 To run this project on your computer, follow these steps:
 
-Clone the repository: git clone [https://github.com/NDZhelev22/project1.git]
-Go to the project with name: Website
-Open the index.html file in your browser.
-That's it! The project should now be running on your local machine.
+* Clone the repository: git clone [https://github.com/NDZhelev22/project1.git]
+* Go to the project with name: Website
+* Open the index.html file in your browser.
+* That's it! The project should now be running on your local machine.
 	
 ## Issues
 While using it, if you encounter any bugs or other problems, please contact us on NDZhelev22@codingburgas.bg
