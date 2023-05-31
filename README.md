@@ -10,7 +10,7 @@ Welcome our project! This project is a web-based application built using HTML an
 ## Contributing
 The people that made this possible: Petko
 
-## Installiation  <!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <body>
    <p><a href="https://www.Youtube.com/"><img src="https://www.tutorialspoint.com/assets/questions/media/426142-1668760872.png" style="width:50px;height:50px;"></a></p>   
@@ -18,6 +18,7 @@ The people that made this possible: Petko
 </html>
 To run this project on your computer, follow these steps:
 
+## Installiation
 * Clone the repository: git clone [https://github.com/NDZhelev22/project1.git]
 * Go to the project with name: Website
 * Open the index.html file in your browser.
