@@ -27,7 +27,7 @@ We appriciate any support <3
 <html>
 <body>
    <p><a href="https://www.Youtube.com/"><img src="https://www.tutorialspoint.com/assets/questions/media/426142-1668760872.png" style="width:50px;height:50px;"></a></p>
-	<p><a href="https://www.Instagram.com/"><img src="https://www.tutorialspoint.com/assets/questions/media/426142-1668760872.png" style="width:50px;height:50px;"></a></p>
+	<p><a href="https://www.Instagram.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" style="width:50px;height:50px;"></a></p>
 </body>
 </html>
 
