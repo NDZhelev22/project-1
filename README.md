@@ -1,7 +1,7 @@
 ## Alpha
 Welcome our project! This project is a web-based application built using HTML and CSS. Its objective is to provide information about Industrial robots using a website.
 
-## Table of Contents  ![alt text](https://e7.pngegg.com/pngimages/539/539/png-clipart-table-of-contents-table-of-contents-eagle-county-school-district-information-forms-blue-angle-thumbnail.png)
+## Table of Contents  ![alt text](https://static.thenounproject.com/png/117746-200.png)
 * [Installiation](#installiation)
 * [Issues](#issues)
 * [Contributing](#contributing) 
