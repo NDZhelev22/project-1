@@ -16,7 +16,7 @@ The people that made this possible: Petko Ivanov, Daniela Stoilova, Egor Grebenn
 * Open the index.html file in your browser.
 * That's it! The project should now be running on your local machine.
 	
-## <img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114228963930296412/117746-200.png" width="50" height="50"> Issues
+## <img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114228963930296412/117746-200.png" width="45" height="45"> Issues
 While using it, if you encounter any bugs or other problems, please contact us on NDZhelev22@codingburgas.bg
 
 ## <img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114232885608726568/futures-contract-5183806-4321763.png" width="50" height="50"> Futures
