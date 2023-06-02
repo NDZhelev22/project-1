@@ -1,7 +1,7 @@
 ## Alpha
 Welcome our project! This project is a web-based application built using HTML and CSS. Its objective is to provide information about Industrial robots using a website.
 
-## Table of Contents  !(https://github.com/[NDZhelev22]/[project-1]/blob/[public]/png-clipart-table-of-contents-table-of-contents-eagle-county-school-district-information-forms-blue-angle-thumbnail.jpg?raw=true)
+## Table of Contents  ![alt text](https://github.com/[NDZhelev22]/[project-1]/blob/[public]/png-clipart-table-of-contents-table-of-contents-eagle-county-school-district-information-forms-blue-angle-thumbnail.jpg?raw=true)
 * [Installiation](#installiation)
 * [Issues](#issues)
 * [Contributing](#contributing) 
