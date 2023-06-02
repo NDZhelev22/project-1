@@ -19,7 +19,7 @@ The people that made this possible: Petko Ivanov, Daniela Stoilova, Egor Grebenn
 ## <img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114228963930296412/117746-200.png" width="50" height="50"> Issues
 While using it, if you encounter any bugs or other problems, please contact us on NDZhelev22@codingburgas.bg
 
-## Futures
+## <img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114232547740749926/4229531.png" width="50" height="50"> Futures
 * Easy to understand
 * Useful information
 * Simple design
