@@ -7,10 +7,10 @@ Welcome our project! This project is a web-based application built using HTML an
 * [Contributing](#contributing) 
 * [Futures](#features)
 
-## <img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114227612479402045/download-1915753_960_720.webp" width="40" height="40"> Contributing
+## <img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114228779322196099/istockphoto-1169620514-170667a_1.jpg" width="45" height="45"> Contributing
 The people that made this possible: Petko Ivanov, Daniela Stoilova, Egor Grebennikov, Nikolay Zhelev
 
-## Installiation
+## <img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114227612479402045/download-1915753_960_720.webp" width="45" height="45"> Installiation
 * Clone the repository: git clone [https://github.com/NDZhelev22/project1.git]
 * Go to the project with name: Website
 * Open the index.html file in your browser.
