@@ -1,4 +1,4 @@
- <img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114222805341438064/Logo.png" width="60" height="100" align="center">
+ <img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114222805341438064/Logo.png" width="100" height="100" align="center">
 Welcome our project! This project is a web-based application built using HTML and CSS. Its objective is to provide information about Industrial robots using a website.
 
 ## Table of Contents
