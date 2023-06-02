@@ -7,7 +7,7 @@ Welcome our project! This project is a web-based application built using HTML an
 * [Contributing](#contributing) 
 * [Futures](#features)
 
-## Contributing
+## <img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114227612479402045/download-1915753_960_720.webp" width="40" height="40"> Contributing
 The people that made this possible: Petko Ivanov, Daniela Stoilova, Egor Grebennikov, Nikolay Zhelev
 
 ## Installiation
