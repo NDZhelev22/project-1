@@ -1,4 +1,4 @@
- <p align="center"><img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114222805341438064/Logo.png" width="180" height="180" > </p>
+ <p align="center"><img src= "https://cdn.discordapp.com/attachments/871718613755768832/1115290252102348890/Alpha_logo.png" width="180" height="180" > </p>
 Welcome our project! This project is a web-based application built using HTML and CSS. Its objective is to provide information about Industrial robots using a website.
 
 ## <img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114226682400874556/png-clipart-table-of-contents-table-of-contents-eagle-county-school-district-information-forms-blue-angle-thumbnail-removebg-preview.png" width="40" height="40"> Table of Contents
@@ -8,7 +8,10 @@ Welcome our project! This project is a web-based application built using HTML an
 * [Futures](#features)
 
 ## <img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114235235031318548/image-removebg-preview.png" width="70" height="70"> Contributing
-The people that made this possible: Petko Ivanov, Daniela Stoilova, Egor Grebennikov, Nikolay Zhelev
+* Nikolay Zhelev - Scrum Trainer - NDZhelev22@codingburgas.bg
+* Petko Ivanov - Developer - Psivanov22@codingburgas.bg
+* Egor Grebennikov - Developer - Eygrebennikov22@codingburgas.bg
+* Daniela Stoilova - Designer - Ddstoilova22@codingburgas.bg
 
 ## <img src= "https://cdn.discordapp.com/attachments/871718613755768832/1114227612479402045/download-1915753_960_720.webp" width="50" height="50"> Installiation
 * Clone the repository: git clone [https://github.com/NDZhelev22/project1.git]
